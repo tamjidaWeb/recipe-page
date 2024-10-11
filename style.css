@@ -6,3 +6,8 @@
 .image img{
     width: 50%;
 }
+.image-detail{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
